@@ -50,5 +50,5 @@ h1 {
   height: 100px;
   width: 100px;
   background-color: yellow;
-  position: absolute;
+  position: fixed;
 }
