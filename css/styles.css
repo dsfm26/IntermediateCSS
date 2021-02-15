@@ -19,7 +19,6 @@ h1{
     width: 200px;
     background-color: red;
     border: solid 20px;
-    margin-left: 260px;
 }
 
 .bottom-container{
@@ -27,6 +26,5 @@ h1{
     width: 200px;
     background-color: yellow;
     border: solid 10px;
-    margin-left: 500px;
 }
 
