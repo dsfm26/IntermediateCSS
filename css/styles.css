@@ -71,3 +71,11 @@ a {
   float: right;
   margin-left: 30px;
 }
+
+.skills-desc{
+  clear: left;
+}
+
+.skills-commputer-desc{
+  clear: right;
+}
